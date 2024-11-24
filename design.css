@@ -1,0 +1,28 @@
+/* Here some simple css rules */
+
+body {
+    background-color: chocolate;
+}
+
+.box {
+    background-color: yellow;
+    color: red;
+    width: 50vw;
+    height: 50vh;
+
+}
+
+.border1 {
+    border: 1vw red solid;
+}
+
+.border2 {
+    border: 1vw black dashed;
+    background-color: red;
+    color: white;
+}
+
+#fabi {
+    background-color: magenta;
+    z-index: 4;
+}
